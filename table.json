@@ -1,4 +1,5 @@
-[
+{"stockperf": 
+  [
   {
     "carid": 2108,
     "manufacturer": "Dodge",
@@ -7144,3 +7145,4 @@
     "S": ""
   }
 ]
+}
