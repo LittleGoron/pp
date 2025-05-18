@@ -6596,7 +6596,7 @@
   {
     "carid": "",
     "manufacturer": "Honda",
-    "name": "CR-V eHEV EV Black Edition '21",
+    "name": "CR-V e:HEV EX Black Edition '21",
     "group": "N",
     "CH": 345.56,
     "CM": 381.02,
@@ -7983,7 +7983,7 @@
   {
     "carid": "",
     "manufacturer": "Ford",
-    "name": "GT LM Race Car Spec II",
+    "name": "Ford GT LM Race Car Spec II",
     "group": "N",
     "CH": "",
     "CM": "",
@@ -8002,7 +8002,7 @@
   {
     "carid": "",
     "manufacturer": "Ford",
-    "name": "GT LM Spec II Test Car",
+    "name": "Ford GT LM Spec II Test Car",
     "group": "N",
     "CH": "",
     "CM": "",
@@ -8021,7 +8021,7 @@
   {
     "carid": "",
     "manufacturer": "Ford",
-    "name": "GT Race Car '18",
+    "name": "Ford GT Race Car '18",
     "group": "N",
     "CH": "",
     "CM": "",
@@ -8078,7 +8078,7 @@
   {
     "carid": "",
     "manufacturer": "Honda",
-    "name": "Castrol MUGEN NSX '00",
+    "name": "NSX GT500 '00",
     "group": "N",
     "CH": "",
     "CM": "",
@@ -8268,7 +8268,7 @@
   {
     "carid": "",
     "manufacturer": "McLaren",
-    "name": "F1 GTR - BMW '95",
+    "name": "McLaren F1 GTR - BMW '95",
     "group": "N",
     "CH": "",
     "CM": "",
@@ -8286,7 +8286,7 @@
   },
   {
     "carid": "",
-    "manufacturer": "Mercedes-AMG",
+    "manufacturer": "AMG",
     "name": "Mercedes-AMG GT3 '16",
     "group": "N",
     "CH": "",
@@ -8305,7 +8305,7 @@
   },
   {
     "carid": "",
-    "manufacturer": "Mercedes-AMG",
+    "manufacturer": "AMG",
     "name": "Mercedes-AMG GT3 '20",
     "group": "N",
     "CH": "",
@@ -8324,7 +8324,7 @@
   },
   {
     "carid": "",
-    "manufacturer": "Mercedes-Benz",
+    "manufacturer": "AMG",
     "name": "SLS AMG GT3 '11",
     "group": "N",
     "CH": "",
@@ -8401,7 +8401,7 @@
   {
     "carid": "",
     "manufacturer": "Nissan",
-    "name": "PENNZOIL Nismo GT-R '99",
+    "name": "GT-R GT500 '99",
     "group": "N",
     "CH": "",
     "CM": "",
@@ -8420,7 +8420,7 @@
   {
     "carid": "",
     "manufacturer": "Nissan",
-    "name": "Skyline Super Silhouette Group 5 '84",
+    "name": "Skyline Super Silhouette '84",
     "group": "N",
     "CH": "",
     "CM": "",
@@ -8496,7 +8496,7 @@
   {
     "carid": "",
     "manufacturer": "Renault",
-    "name": "Sport R.S.01 GT3 '16",
+    "name": "R.S.01 GT3 '16",
     "group": "N",
     "CH": "",
     "CM": "",
