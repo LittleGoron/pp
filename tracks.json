@@ -156,7 +156,7 @@
     "Country": "Spain",
     "Type": "Real",
     "BOP": "L",
-    "Rain": "Yes",
+    "Rain": "No",
     "24h": "No",
     "Reverse": ""
   },
@@ -226,7 +226,7 @@
     "Country": "Germany",
     "Type": "Real",
     "BOP": "",
-    "Rain": "",
+    "Rain": "Yes",
     "24h": "",
     "Reverse": ""
   },
@@ -396,7 +396,7 @@
     "Country": "Spain",
     "Type": "Real",
     "BOP": "M",
-    "Rain": "Yes",
+    "Rain": "No",
     "24h": "No",
     "Reverse": ""
   },
@@ -416,7 +416,7 @@
     "Country": "Spain",
     "Type": "Real",
     "BOP": "M",
-    "Rain": "Yes",
+    "Rain": "No",
     "24h": "No",
     "Reverse": ""
   },
@@ -696,7 +696,7 @@
     "Country": "Germany",
     "Type": "Real",
     "BOP": "",
-    "Rain": "",
+    "Rain": "Yes",
     "24h": "",
     "Reverse": ""
   }
