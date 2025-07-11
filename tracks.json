@@ -1,0 +1,704 @@
+{"tracks": 
+  [
+  {
+    "Track name": "Northern Isle Speedway",
+    "Miles": 0.56,
+    "Country": "USA",
+    "Type": "Original",
+    "BOP": "H",
+    "Rain": "No",
+    "24h": "Yes",
+    "Reverse": "No"
+  },
+  {
+    "Track name": "Willow Springs International Raceway - Horse Thief Mile",
+    "Miles": 1.01,
+    "Country": "USA",
+    "Type": "Real",
+    "BOP": "L",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "BB Raceway",
+    "Miles": 1.04,
+    "Country": "Japan",
+    "Type": "Original",
+    "BOP": "H",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Autodrome Lago Maggiore - Center",
+    "Miles": 1.06,
+    "Country": "Italy",
+    "Type": "Original",
+    "BOP": "L",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Brands Hatch - Indy",
+    "Miles": 1.21,
+    "Country": "UK",
+    "Type": "Real",
+    "BOP": "L",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": "No"
+  },
+  {
+    "Track name": "Kyoto Driving Park - Miyaba",
+    "Miles": 1.21,
+    "Country": "Japan",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Autodrome Lago Maggiore - East End",
+    "Miles": 1.25,
+    "Country": "Italy",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Tsukuba",
+    "Miles": 1.27,
+    "Country": "Japan",
+    "Type": "Real",
+    "BOP": "L",
+    "Rain": "Yes",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Alcase - Test",
+    "Miles": 1.32,
+    "Country": "France",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Suzuka Circuit - East",
+    "Miles": 1.39,
+    "Country": "Japan",
+    "Type": "Real",
+    "BOP": "M",
+    "Rain": "Yes",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Red Bull Ring - Short",
+    "Miles": 1.45,
+    "Country": "Austria",
+    "Type": "Real",
+    "BOP": "M",
+    "Rain": "Yes",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Autodrome Lago Maggiore - West End",
+    "Miles": 1.52,
+    "Country": "Italy",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Sardegna Road Track - Layout C",
+    "Miles": 1.65,
+    "Country": "Italy",
+    "Type": "Original",
+    "BOP": "L",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Willow Springs International Raceway - Streets",
+    "Miles": 1.66,
+    "Country": "USA",
+    "Type": "Real",
+    "BOP": "L",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Blue Moon Bay Speedway - Infield B",
+    "Miles": 1.78,
+    "Country": "USA",
+    "Type": "Original",
+    "BOP": "H",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Circuit de Barcelona-Catalunya - National",
+    "Miles": 1.85,
+    "Country": "Spain",
+    "Type": "Real",
+    "BOP": "L",
+    "Rain": "Yes",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Autopolis - Shortcut",
+    "Miles": 1.88,
+    "Country": "Japan",
+    "Type": "Real",
+    "BOP": "M",
+    "Rain": "Yes",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Grand Valley Highway 1 - South",
+    "Miles": 1.91,
+    "Country": "USA",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Blue Moon Bay Speedway - Full",
+    "Miles": 1.99,
+    "Country": "USA",
+    "Type": "Original",
+    "BOP": "H",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Blue Moon Bay Speedway - Infield A",
+    "Miles": 2.08,
+    "Country": "USA",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "WeatherTech Raceway Laguna Seca",
+    "Miles": 2.24,
+    "Country": "USA",
+    "Type": "Real",
+    "BOP": "L",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Autodrome Lago Maggiore - East",
+    "Miles": 2.26,
+    "Country": "Italy",
+    "Type": "Original",
+    "BOP": "L",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Nurburgring - Sprint",
+    "Miles": 2.26,
+    "Country": "Germany",
+    "Type": "Real",
+    "BOP": "",
+    "Rain": "",
+    "24h": "",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Goodwood",
+    "Miles": 2.37,
+    "Country": "UK",
+    "Type": "Real",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Sardegna Road Track - Layout B",
+    "Miles": 2.42,
+    "Country": "Italy",
+    "Type": "Original",
+    "BOP": "L",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Brands Hatch - Grand Prix",
+    "Miles": 2.45,
+    "Country": "UK",
+    "Type": "Real",
+    "BOP": "L",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Watkins Glen International - Short",
+    "Miles": 2.45,
+    "Country": "USA",
+    "Type": "Real",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Willow Springs International Raceway - Big Willow",
+    "Miles": 2.46,
+    "Country": "USA",
+    "Type": "Real",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Daytona Tri-Oval",
+    "Miles": 2.5,
+    "Country": "USA",
+    "Type": "Real",
+    "BOP": "H",
+    "Rain": "No",
+    "24h": "Yes",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Michelin Raceway Road Atlanta",
+    "Miles": 2.54,
+    "Country": "USA",
+    "Type": "Real",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "Yes",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Autodrome Lago Maggiore - West",
+    "Miles": 2.59,
+    "Country": "Italy",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Deep Forest Raceway",
+    "Miles": 2.64,
+    "Country": "Switzerland",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Autodromo de Interlagos",
+    "Miles": 2.68,
+    "Country": "Brazil",
+    "Type": "Real",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Red Bull Ring - Full",
+    "Miles": 2.68,
+    "Country": "Austria",
+    "Type": "Real",
+    "BOP": "M",
+    "Rain": "Yes",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Dragon Trail - Gardens",
+    "Miles": 2.7,
+    "Country": "Croatia",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "Yes",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "High Speed Ring",
+    "Miles": 2.7,
+    "Country": "Japan",
+    "Type": "Original",
+    "BOP": "H",
+    "Rain": "Yes",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Tokyo Expressway - Central Clockwise",
+    "Miles": 2.74,
+    "Country": "Japan",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "Yes",
+    "24h": "Yes",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Fuji International Speedway - Short",
+    "Miles": 2.81,
+    "Country": "Japan",
+    "Type": "Real",
+    "BOP": "M",
+    "Rain": "Yes",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Fuji International Speedway - Full",
+    "Miles": 2.84,
+    "Country": "Japan",
+    "Type": "Real",
+    "BOP": "M",
+    "Rain": "Yes",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Circuit de Barcelona-Catalunya - Grand Prix",
+    "Miles": 2.89,
+    "Country": "Spain",
+    "Type": "Real",
+    "BOP": "M",
+    "Rain": "Yes",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Autopolis - Full",
+    "Miles": 2.9,
+    "Country": "Japan",
+    "Type": "Real",
+    "BOP": "M",
+    "Rain": "Yes",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Circuit de Barcelona-Catalunya - No Chicane",
+    "Miles": 2.94,
+    "Country": "Spain",
+    "Type": "Real",
+    "BOP": "M",
+    "Rain": "Yes",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Kyoto Driving Park - Yamagiwa",
+    "Miles": 3.05,
+    "Country": "Japan",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Grand Valley Highway 1 - Full",
+    "Miles": 3.17,
+    "Country": "USA",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Sardegna Road Track - Layout A",
+    "Miles": 3.18,
+    "Country": "Italy",
+    "Type": "Original",
+    "BOP": "H",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Nurburgring - Grand Prix",
+    "Miles": 3.2,
+    "Country": "Germany",
+    "Type": "Real",
+    "BOP": "M",
+    "Rain": "Yes",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Tokyo Expressway - South Clockwise",
+    "Miles": 3.23,
+    "Country": "Japan",
+    "Type": "Original",
+    "BOP": "H",
+    "Rain": "No",
+    "24h": "Yes",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Dragon Trail - Seaside",
+    "Miles": 3.24,
+    "Country": "Croatia",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Alsace - Village",
+    "Miles": 3.37,
+    "Country": "France",
+    "Type": "Original",
+    "BOP": "L",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Watkins Glen International - Long",
+    "Miles": 3.37,
+    "Country": "USA",
+    "Type": "Real",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Trial Mountain Circuit",
+    "Miles": 3.38,
+    "Country": "USA",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Daytona Road Course",
+    "Miles": 3.56,
+    "Country": "USA",
+    "Type": "Real",
+    "BOP": "H",
+    "Rain": "No",
+    "24h": "Yes",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Autodromo Nazionale Monza - No Chicane",
+    "Miles": 3.58,
+    "Country": "Italy",
+    "Type": "Real",
+    "BOP": "H",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Autodromo Nazionale Monza - Full",
+    "Miles": 3.6,
+    "Country": "Italy",
+    "Type": "Real",
+    "BOP": "H",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Autodrome Lago Maggiore - Full",
+    "Miles": 3.61,
+    "Country": "Italy",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Suzuka Circuit - Full",
+    "Miles": 3.61,
+    "Country": "Japan",
+    "Type": "Real",
+    "BOP": "M",
+    "Rain": "Yes",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Mount Panorama Circuit",
+    "Miles": 3.86,
+    "Country": "Australia",
+    "Type": "Real",
+    "BOP": "H",
+    "Rain": "No",
+    "24h": "Yes",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Tokyo Expressway - South Counterclockwise",
+    "Miles": 4.08,
+    "Country": "Japan",
+    "Type": "Original",
+    "BOP": "H",
+    "Rain": "No",
+    "24h": "Yes",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Kyoto Driving Park - Yamagiwa + Miyaba",
+    "Miles": 4.25,
+    "Country": "Japan",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Circuit de Spa-Francorchamps",
+    "Miles": 4.35,
+    "Country": "Belgium",
+    "Type": "Real",
+    "BOP": "H",
+    "Rain": "Yes",
+    "24h": "Yes",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Circuit de Sainte-Croix - Layout B",
+    "Miles": 4.39,
+    "Country": "France",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Tokyo Expressway - East Clockwise",
+    "Miles": 4.54,
+    "Country": "Japan",
+    "Type": "Original",
+    "BOP": "H",
+    "Rain": "Yes",
+    "24h": "Yes",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Circuit de Sainte-Croix - Layout A",
+    "Miles": 5.89,
+    "Country": "France",
+    "Type": "Original",
+    "BOP": "M",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Circuit de Sainte-Croix - Layout C",
+    "Miles": 6.73,
+    "Country": "France",
+    "Type": "Original",
+    "BOP": "H",
+    "Rain": "No",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Circuit de la Sarth - No Chicane",
+    "Miles": 8.43,
+    "Country": "France",
+    "Type": "Real",
+    "BOP": "H",
+    "Rain": "Yes",
+    "24h": "Yes",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Circuit de la Sarth - Full",
+    "Miles": 8.47,
+    "Country": "France",
+    "Type": "Real",
+    "BOP": "H",
+    "Rain": "Yes",
+    "24h": "Yes",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Nurburgring - Nordschleife",
+    "Miles": 12.94,
+    "Country": "Germany",
+    "Type": "Real",
+    "BOP": "H",
+    "Rain": "Yes",
+    "24h": "No",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Nurburgring - 24h Layout",
+    "Miles": 15.77,
+    "Country": "Germany",
+    "Type": "Real",
+    "BOP": "H",
+    "Rain": "Yes",
+    "24h": "Yes",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Special Stage Route X",
+    "Miles": 18.82,
+    "Country": "USA",
+    "Type": "Original",
+    "BOP": "H",
+    "Rain": "No",
+    "24h": "Yes",
+    "Reverse": ""
+  },
+  {
+    "Track name": "Nurburgring - Endurance",
+    "Miles": "",
+    "Country": "Germany",
+    "Type": "Real",
+    "BOP": "",
+    "Rain": "",
+    "24h": "",
+    "Reverse": ""
+  }
+]
+}
