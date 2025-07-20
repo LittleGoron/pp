@@ -6328,7 +6328,7 @@
     "S": ""
   },
   {
-    "carid":,
+    "carid": 1,
     "manufacturer": "Peugeot",
     "name": "2008 Allure '21",
     "group": "N",
@@ -6518,8 +6518,8 @@
     "S": ""
   },
   {
-    "carid":,
-    "manufacturer": "Citroën",
+    "carid": 1,
+    "manufacturer": "Citroen",
     "name": "BX 19 TRS '87",
     "group": "N",
     "CH": 320.5,
